@@ -1,0 +1,7 @@
+app --> lib --> db.ts
+
+app --> models --> user.ts, videos.ts
+
+root --> next-auth.d.ts
+
+root --> types.d.ts
